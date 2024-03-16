@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Allan J. Corpuz Jr.</h1>
 <h3 align="center">A passionate Student aspiring to be a professional developer</h3>
 
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif"  />
+</div>
+
+
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **react**
