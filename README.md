@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Student aspiring to be a professional developer</h3>
 
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif"  />
+  <img height="200" src="[https://media.giphy.com/media/1d7F9xyq6j7C1ojbC5/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZlZzgzb2Vrcm94YmdmN3JmMjJ0cHpsbGd2cXl5amVlNGVteWsybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVUuyo5DYmBZLKMAvI/giphy.gif)"  />
 </div>
 
 
